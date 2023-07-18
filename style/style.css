@@ -43,3 +43,35 @@ ul li a{
     
 }
 /* nav style end */
+
+/* banner section style start */
+
+.banner-container{
+    width: 800px;
+    text-align: center;
+    margin: 0 auto;
+    
+}
+.banner-title{
+    font-size: 64px;
+    font-weight: 700;
+}
+.banner-description{
+    color: #727272;
+    font-size: 16px;
+
+}
+.btn-primary{
+    color: #FFF;
+    font-size: 20px;
+    font-weight: 600;
+    border-radius: 8px;
+    background: #FF900E;
+    padding: 20px 25px;
+    border: none;
+    margin-bottom: 40px;
+    margin-top: 40px;
+}
+
+
+/* banner section style end*/
